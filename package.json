@@ -29,7 +29,10 @@
   },
   "keywords": [
     "python",
-    "isort-formatter"
+    "isort",
+    "imports",
+    "sort",
+    "import"
   ],
   "engines": {
     "vscode": "^1.70.0"
