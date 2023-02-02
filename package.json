@@ -1,6 +1,6 @@
 {
   "name": "isort-formatter",
-  "displayName": "іsort",
+  "displayName": "Better isort",
   "description": "Sort Python imports using isort.",
   "version": "1.0.2",
   "icon": "image/icon.png",
