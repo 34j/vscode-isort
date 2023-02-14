@@ -2,7 +2,7 @@
   "name": "isort-formatter",
   "displayName": "Better isort",
   "description": "Sort Python imports using isort.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "icon": "image/icon.png",
   "preview": false,
   "author": {
